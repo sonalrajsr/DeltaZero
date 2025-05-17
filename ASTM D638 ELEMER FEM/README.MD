@@ -1,5 +1,3 @@
-## ASTM D638 Static Analysis Simulation using Elmer FEM
-
 # 📊 Static Analysis of ASTM D638 Tensile Specimen in Elmer FEM
 
 This guide details a complete step-by-step workflow to perform static structural analysis of a standard ASTM D638 tensile test specimen using **Elmer FEM software**.
@@ -8,10 +6,12 @@ This guide details a complete step-by-step workflow to perform static structural
 
 ## 📚 Prerequisites
 
-* **Elmer FEM Software** installed ([Download Elmer](https://www.csc.fi/web/elmer/elmer))
+* **Elmer FEM Software** installed ([Download Elmer](https://www.elmerfem.org/blog/binaries/))
 * CAD model of ASTM D638 specimen in **STEP/STL format** (you can use FreeCAD/Fusion/SolidWorks to model it)
 
 ---
+## VonMorcess Stress Simulation Result
+![Alt Text](ASTM D638 ELEMER FEM\ASTM D638 Stress Color Plot.png)
 
 ## 📌 Simulation Workflow
 
@@ -87,7 +87,7 @@ This guide details a complete step-by-step workflow to perform static structural
 
 ### 📈 8️⃣ Visualize Results
 
-* Use **ElmerPost** or **ParaView**
+* Use **ElmerPost**
 
   * If using VTU output: open `.vtu` in Veiw -> StartElmerVTU
   * View **stress distribution**, **displacement vectors**, **deformed shape**
@@ -96,7 +96,7 @@ This guide details a complete step-by-step workflow to perform static structural
 
 ## 📊 Notes:
 
-* Calculate cross-sectional area from D638 specimen dimensions for stress computation:
+* Calculate cross-sectional area from D638 specimen dimensions for Traction F3 boundary condition:
 
   ```
   A = width × thickness
@@ -105,4 +105,4 @@ This guide details a complete step-by-step workflow to perform static structural
   e.g.
   Width = 13 mm, Thickness = 3.2 mm → A = 41.6 mm² = 41.6e-6 m²
 
-* Stress = Force / Area
+* Traction Boundary condition F3 = Force(500) / Area
