@@ -11,7 +11,7 @@ This guide details a complete step-by-step workflow to perform static structural
 
 ---
 ## Von Mises Stress Simulation Result
-![Simulation file](ASTM D638 ELEMER FEM\ASTM D638 Stress Color Plot.png)
+![Simulation file](ASTM D638 Stress Color Plot.png)
 
 ## 📌 Simulation Workflow
 
