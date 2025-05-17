@@ -10,8 +10,8 @@ This guide details a complete step-by-step workflow to perform static structural
 * CAD model of ASTM D638 specimen in **STEP/STL format** (you can use FreeCAD/Fusion/SolidWorks to model it)
 
 ---
-## VonMorcess Stress Simulation Result
-![Alt Text](ASTM D638 ELEMER FEM\ASTM D638 Stress Color Plot.png)
+## Von Mises Stress Simulation Result
+![Simulation file](ASTM D638 ELEMER FEM\ASTM D638 Stress Color Plot.png)
 
 ## 📌 Simulation Workflow
 
