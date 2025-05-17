@@ -1,2 +1,8 @@
-![Topology optimsed](./D638%20Topology%20Optimised.STL)
-![D638 Removed part after topology optimization](./D638%20Removed%20part%20after%20topology%20optimization.STL)
+# ASTM D638 FILES
+
+## File
+- Solidworks File of ASTM D638
+- STL file of topology optimised reduced mass
+- STL file of removed mass
+- Simulation files for Forces(500, 1000, 5000) N
+- G-Code for variable infill
