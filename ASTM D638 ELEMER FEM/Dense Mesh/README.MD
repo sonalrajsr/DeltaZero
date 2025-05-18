@@ -11,9 +11,10 @@ This guide details a complete step-by-step workflow to perform static structural
 
 ---
 ## Dense mesh of astm d638
-![Simulation file](./default%20mesh%20elmer.png)
+![Simulation file](./Dense%20mesh.png)
+
 ## Von Mises Stress Simulation Result
-![Simulation file](./ASTM%20D638%20Stress%20Color%20Plot.png)
+![Simulation file](./Dense%20mess%20von%20mises.png)
 
 ## 📌 Simulation Workflow
 
