@@ -66,23 +66,23 @@ End
 Material 1
   Name = "PLA"
   Density = 1240
-  Poisson ratio = 0.36
   Youngs modulus = 3500000000
+  Poisson ratio = 0.36
 End
 
 Initial Condition 1
   Name = "InitialCondition Zero Displacement"
-  Displacement 3 = 0
-  Displacement 2 = 0
   Displacement 1 = 0
+  Displacement 2 = 0
+  Displacement 3 = 0
 End
 
 Boundary Condition 1
   Target Boundaries(1) = 5 
   Name = "Fixed end Boundary Condition"
-  Displacement 3 = 0
   Displacement 2 = 0
   Displacement 1 = 0
+  Displacement 3 = 0
 End
 
 Boundary Condition 2
