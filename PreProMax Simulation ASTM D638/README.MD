@@ -48,7 +48,7 @@ This folder contains simulation files and workflow for running the ASTM D638 ten
 ![Simulation file](./20_Displacement.png)
 
 ## Von Mises Stress Simulation Result
-![Simulation file](./20_VON MISES.png)
+![Simulation file](./20_VON%20MISES.png)
 ## Workflow
 ## How to Reproduce
 
