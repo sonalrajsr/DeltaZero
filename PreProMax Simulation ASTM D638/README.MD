@@ -11,11 +11,6 @@ This folder contains simulation files and workflow for running the ASTM D638 ten
 - Geometry, mesh, and material property files
 - This README with instructions
 
-## Dense mesh of astm d638
-![Simulation file](./20_VON MISES.png)
-
-## Von Mises Stress Simulation Result
-![Simulation file](./20_VON MISES.png)
 ## Workflow
 
 1. **Open Project:**  
@@ -28,12 +23,14 @@ This folder contains simulation files and workflow for running the ASTM D638 ten
 
 3. **Assign Material Properties:**  
    Ensure material properties match ASTM D638 standard requirements.
-   | Property        | Value (Example for PLA) |
+* Click `Add` and fill PLA (or your material) properties:
+
+| Property        | Value (Example for PLA) |
 | :-------------- | :---------------------- |
 | Density         | 1250 kg/m³              |
 | Young's Modulus | 3.5e9 Pa                |
 | Poisson's Ratio | 0.36                    |
-
+---
 4. **Set Boundary Conditions:**  
    Apply appropriate loads and constraints as per the standard test method.
 - Fixed
@@ -49,7 +46,7 @@ This folder contains simulation files and workflow for running the ASTM D638 ten
 
 ## Von Mises Stress Simulation Result
 ![Simulation file](./20_VON%20MISES.png)
-## Workflow
+
 ## How to Reproduce
 
 - Install PreProMax (see [PreProMax documentation](https://prepromax.com/) for details)
