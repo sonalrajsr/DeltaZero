@@ -44,6 +44,11 @@ General steps:
 - Follow the workflow in the relevant folder
 - Compare results using provided scripts or manually
 
+## Displacemnt
+![Simulation file](./D638/D638%20Topology%20Optimised.STL)
+
+## Von Mises Stress Simulation Result
+![Simulation file](./D638/D638%20Removed%20part%20after%20topology%20optimization.STL)
 ## References
 
 - ASTM D638 Standard Test Method for Tensile Properties of Plastics
