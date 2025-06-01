@@ -44,11 +44,11 @@ General steps:
 - Follow the workflow in the relevant folder
 - Compare results using provided scripts or manually
 
-## Displacemnt
-![Simulation file](./D638/D638%20Topology%20Optimised.STL)
-
-## Von Mises Stress Simulation Result
-![Simulation file](./D638/D638%20Removed%20part%20after%20topology%20optimization.STL)
+## Result Files
+![Simulation file](./ASTM%20D638%20ELEMER%20FEM/ASTM%20D638%20Stress%20Color%20Plot.png)
+![Simulation file](./Dense%20Mesh%20ELEMER%20ASTM%20D638/Dense%20mess%20von%20mises.png)
+![Simulation file](./PreProMax%20Simulation%20ASTM%20D638/20_VON%20MISES.png)
+![Simulation file](./Topology%20Optimization%20Z88Arion/topo-optimised.png)
 ## References
 
 - ASTM D638 Standard Test Method for Tensile Properties of Plastics
