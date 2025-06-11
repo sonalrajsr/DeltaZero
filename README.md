@@ -52,6 +52,6 @@ General steps:
 ## References
 
 - ASTM D638 Standard Test Method for Tensile Properties of Plastics
-- [Elmer FEM Documentation](https://www.elmerfem.org/blog/documentation/)
+- [Elmer FEM Documentation](https://www.elmerfem.org/blog/)
 
 ---
