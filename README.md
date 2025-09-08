@@ -9,6 +9,7 @@ This project benchmarks and compares the accuracy of various open-source Finite 
 - Assess the accuracy of open-source FEM/simulation software (e.g., Elmer FEM, CalculiX, Code_Aster, OpenFOAM, etc.)
 - Provide reproducible workflows and input files for each software
 - Compare simulation results (stress, displacement, etc.) against analytical solutions and reference data
+- ![i-created-strecs3d-a-free-infill-optimizer-that-uses-stress-v0-lxklox7ph0if1](https://github.com/user-attachments/assets/7347348b-33e0-4de7-a738-27efbd5d3cc0)
 
 ## Project Structure
 
